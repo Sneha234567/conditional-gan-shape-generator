@@ -65,6 +65,11 @@ PyTorch – Deep learning framework
 Torchvision – Image transformations and utilities
 PIL (Pillow) – Image generation and manipulation
 TQDM – Training progress visualization
+## Tasks
+
+- **Task 1**: Conditional GAN Shape Generator → [`Task1_Conditional_GAN`](./Task1_Conditional_GAN)
+- **Task 2**: Nullclass Dataset Project → [`Task2_Nullclass_Dataset_Project`](./Task2_Nullclass_Dataset_Project)
+
 
 📌 Author
 Sneha Prasad
